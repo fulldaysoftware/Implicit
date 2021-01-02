@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="open_browser">OPEN Website</string>
+    <string name="open_location">OPEN Location</string>
+    <string name="share_text">Share Text</string>
+    <string name="link">https://developer.android.com/</string>
+    <string name="twas_brillig_and_the_slithy_toves">Twas brillig and the slithy toves</string>
+    <string name="take_a_picture">Take A PICTURE</string>
+</resources>
